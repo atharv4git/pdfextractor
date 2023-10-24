@@ -1,0 +1,4 @@
+flask
+camelot-py[cv]
+ghostscript
+pypdf2==2.2
